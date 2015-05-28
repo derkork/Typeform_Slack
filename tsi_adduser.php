@@ -14,7 +14,7 @@
         $typeformEmailField='email_Number';
         $typeformNameField='textfield_Number';
         //JSON Email list - leave as is unless you change directories and/or file name
-        $previouslyInvitedEmailsFile=__DIR__.'/slackmaillist.json';
+        $previouslyInvitedEmailsFile=__DIR__.'/tsi_emaillog.json';
  
         // your slack team/host name 
         $slackHostName='subdomain';
