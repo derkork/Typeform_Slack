@@ -1,5 +1,6 @@
 <?php
 // Script written by levels.io
+// Formatted by Lightbay (www.lightbay.org)
 // Config lines: Please edit Lines 9,11,13,14,19,21,23 (15 optional)
 // Edit timezone to your local city or leave as is
         date_default_timezone_set('America/New_York');
