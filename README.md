@@ -1,4 +1,3 @@
 # Typeform Slack auto-Invite
-Files for creating Typeform and Slack automatic integration
-
-For a full set of instructions visit http:www/lightbay.org
+Files for creating Typeform and Slack automatic integration. This fork works with curl, only
+and doesn't require https fopen wrappers.
